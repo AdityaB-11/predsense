@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Predator Control
+Comment=Acer Predator gaming laptop control panel
+Exec=/usr/local/bin/predator-control
+Icon=predator-control
+Terminal=false
+Type=Application
+Categories=System;HardwareSettings;
+Keywords=acer;predator;fan;performance;gaming;keyboard;rgb;
+StartupNotify=true
+StartupWMClass=predator-control

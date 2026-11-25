@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE policyconfig PUBLIC
+    "-//freedesktop//DTD PolicyKit Policy Configuration 1.0//EN"
+    "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
+
+<!--
+  Polkit policy for Predator Control.
+  Allows the logged-in desktop user to write to linuwu-sense sysfs nodes
+  without a password prompt (after the first authentication).
+-->
+<policyconfig>
+
+  <action id="com.aditya.predator-control.write-sysfs">
+    <description>Manage Acer Predator laptop settings</description>
+    <message>Predator Control needs to write hardware settings via sysfs.</message>
+    <defaults>
+      <allow_any>no</allow_any>
+      <allow_inactive>no</allow_inactive>
+      <allow_active>auth_admin_keep</allow_active>
+    </defaults>
+  </action>
+
+</policyconfig>

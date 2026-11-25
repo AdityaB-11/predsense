@@ -1,0 +1,1 @@
+{"rustc":2642861616376027855,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[18133924757117850112,"build_script_build",false,16146688511942723815]],"local":[{"RerunIfChanged":{"output":"debug/build/winit/0f3eb6ea8a5cb595/run/stdout","paths":["build.rs"]}}],"rustflags":["-C","link-arg=-fuse-ld=lld"],"config":0,"compile_kind":0}

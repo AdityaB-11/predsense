@@ -1,0 +1,14 @@
+/home/aditya/Projects/current/Predator_control/target/release/build/serde/327df217009303cd/out/serde-327df217009303cd.d: /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/aditya/Projects/current/Predator_control/target/release/build/serde/084a03e234822a8f/out/private.rs
+
+/home/aditya/Projects/current/Predator_control/target/release/build/serde/327df217009303cd/out/libserde-327df217009303cd.rlib: /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/aditya/Projects/current/Predator_control/target/release/build/serde/084a03e234822a8f/out/private.rs
+
+/home/aditya/Projects/current/Predator_control/target/release/build/serde/327df217009303cd/out/libserde-327df217009303cd.rmeta: /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/aditya/Projects/current/Predator_control/target/release/build/serde/084a03e234822a8f/out/private.rs
+
+/home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/aditya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/aditya/Projects/current/Predator_control/target/release/build/serde/084a03e234822a8f/out/private.rs:
+
+# env-dep:OUT_DIR=/home/aditya/Projects/current/Predator_control/target/release/build/serde/084a03e234822a8f/out

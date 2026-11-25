@@ -1,0 +1,7 @@
+[build]
+# Use lld for significantly faster link times
+rustflags = ["-C", "link-arg=-fuse-ld=lld"]
+
+[net]
+# Increase git fetch timeout for large repos like rune
+git-fetch-with-cli = true
