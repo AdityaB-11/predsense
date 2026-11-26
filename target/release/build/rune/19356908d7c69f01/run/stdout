@@ -1,7 +1,0 @@
-cargo::rerun-if-changed=build.rs
-cargo::rerun-if-changed=src/clip.wgsl
-cargo::rerun-if-changed=src/shader.wgsl
-cargo::rerun-if-changed=src/outline.wgsl
-cargo::rerun-if-changed=src/render/uber/dxbc_hash.rs
-cargo::rerun-if-changed=src/render/uber/metallib_hash.rs
-cargo::rerun-if-changed=src/render/uber/windfoil_hash.rs

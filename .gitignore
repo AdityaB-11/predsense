@@ -1,0 +1,20 @@
+# Rust build artifacts
+/target/
+target/
+Cargo.lock.bak
+
+# Rustfmt backup files
+**/*.rs.bk
+
+# Editor and IDE configurations
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+*.bak
+
+# OS-generated files
+.DS_Store
+Thumbs.db
